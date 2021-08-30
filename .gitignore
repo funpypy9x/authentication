@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/JWTAuthentication/JWTAuthentication/bin/Debug/netcoreapp3.1
+/JWTAuthentication/JWTAuthentication/obj
+/JWTAuthentication/.vs/JWTAuthentication/v16
